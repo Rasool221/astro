@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/astro/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/astro/static/js/main.31fe40c5.chunk.js",
-    "main.js.map": "/astro/static/js/main.31fe40c5.chunk.js.map",
-    "runtime-main.js": "/astro/static/js/runtime-main.660711aa.js",
-    "runtime-main.js.map": "/astro/static/js/runtime-main.660711aa.js.map",
-    "static/js/2.d13789a3.chunk.js": "/astro/static/js/2.d13789a3.chunk.js",
-    "static/js/2.d13789a3.chunk.js.map": "/astro/static/js/2.d13789a3.chunk.js.map",
-    "static/js/3.8d5e0bbe.chunk.js": "/astro/static/js/3.8d5e0bbe.chunk.js",
-    "static/js/3.8d5e0bbe.chunk.js.map": "/astro/static/js/3.8d5e0bbe.chunk.js.map",
+    "main.css": "/astro/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/astro/static/js/main.5a08416a.chunk.js",
+    "main.js.map": "/astro/static/js/main.5a08416a.chunk.js.map",
+    "runtime-main.js": "/astro/static/js/runtime-main.d8c9f930.js",
+    "runtime-main.js.map": "/astro/static/js/runtime-main.d8c9f930.js.map",
+    "static/js/2.99731191.chunk.js": "/astro/static/js/2.99731191.chunk.js",
+    "static/js/2.99731191.chunk.js.map": "/astro/static/js/2.99731191.chunk.js.map",
+    "static/js/3.3b01d509.chunk.js": "/astro/static/js/3.3b01d509.chunk.js",
+    "static/js/3.3b01d509.chunk.js.map": "/astro/static/js/3.3b01d509.chunk.js.map",
     "index.html": "/astro/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/astro/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.d13789a3.chunk.js.LICENSE.txt": "/astro/static/js/2.d13789a3.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/astro/static/media/logo.6ce24c58.svg"
+    "static/css/main.6dea0f05.chunk.css.map": "/astro/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.99731191.chunk.js.LICENSE.txt": "/astro/static/js/2.99731191.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.660711aa.js",
-    "static/js/2.d13789a3.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.31fe40c5.chunk.js"
+    "static/js/runtime-main.d8c9f930.js",
+    "static/js/2.99731191.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5a08416a.chunk.js"
   ]
 }
