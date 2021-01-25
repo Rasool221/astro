@@ -18,7 +18,7 @@ export default class AstroBG extends Component {
           p.normalMaterial();
           
           // Generate Stars
-          for(let i = 0; i < AMOUNT_OF_STARS; i++) {
+          for (let i = 0; i < AMOUNT_OF_STARS; i++) {
               stars.push(
                 [ p.random(-MAG, MAG), p.random(-MAG, MAG), p.random(-MAG, MAG) ]
               );
@@ -46,7 +46,7 @@ export default class AstroBG extends Component {
                 p.translate(-x, -y, -z);
             });
 
-            for(var i = 0; i<lines.length; i++) {
+            for (var i = 0; i<lines.length; i++) {
                 var [x1, y1, z1, x2, y2, z2, stroke] = lines[i];
                 p.stroke(stroke);
                 p.line(x1, y1, z1, x2, y2, z2);
